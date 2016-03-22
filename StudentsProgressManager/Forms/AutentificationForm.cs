@@ -18,8 +18,6 @@ namespace StudentsProgressManager
         public AutentificationForm()
         {
             InitializeComponent();
-            textBoxLogin.Text = "ostap_moravskyi";
-            textBoxPassword.Text = "1111";
         }
 
         private void button2_Click(object sender, EventArgs e)
