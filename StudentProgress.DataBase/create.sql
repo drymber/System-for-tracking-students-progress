@@ -1,5 +1,5 @@
-﻿--CREATE DATABASE StudentsProgress
---GO
+CREATE DATABASE StudentsProgress
+GO
 
 USE StudentsProgress
 GO
